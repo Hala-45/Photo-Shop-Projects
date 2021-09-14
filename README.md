@@ -1,2 +1,2 @@
-# Photo-Shop-Projects
+# PhotoShop-Projects
 Various Photoshop works created using Adobe Photoshop
